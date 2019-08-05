@@ -5,6 +5,7 @@ body {
 	height: 100%;
 	font-family: 'Great Vibes';
   	background: url(images/diagon-alley-painting-29.jpg);
+	background-size: contain;
 }
 a{
 	color: white;	
